@@ -62,8 +62,8 @@ for index in range(len(cp_code) - 1):
 location = sorted(list(set([address[2] for address in complete_list])))
 print(complete_list)
 
-print(complete_list[1])
-print(complete_list[1][4])
+#print(complete_list[1])
+#print(complete_list[1][4])
 
-print(malls[1])
-print(malls[0][1])
+#print(malls[1])
+#print(malls[0][1])
